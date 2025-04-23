@@ -1,0 +1,1 @@
+# SPAV-16-7SegmentStatePattern
